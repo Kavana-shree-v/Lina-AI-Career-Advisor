@@ -38,6 +38,11 @@ This chatbot aims to simplify career decision-making by providing personalized c
 ![Home](https://github.com/Kavana-shree-v/Lina-Career-Advisor/blob/43e939c712ea79f090f9183198a6fb7fbb68f663/Greeting%20%20Screenshot%20.png)  
 ### 💬 Chat Interaction
 ![Chat Example](https://github.com/Kavana-shree-v/Lina-Career-Advisor/blob/138bf51953afd322aed531fd3740953d7b855ae8/Conservation%20%20Screenshot%20.png)
+## 💬 Conversation Chat
+
+![Conversation Chat](https://github.com/Kavana-shree-v/Lina-Career-Advisor/blob/main/Consversation%20chat.png)
+
+
 
 ---
 ## 🔗 Live Demo
